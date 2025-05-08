@@ -1,7 +1,7 @@
 # ApertureNPR
 Aperture Toon Rendering Pipeline for UnrealEngine.
 
-Empower technical artists to create next-gen cel-shaded/cartoon rendering effects using only the material editor.
+Enable Technical Artists to achieve next-gen cartoon rendering effects by utilizing the Material Editor alone, eliminating the need for complex coding or external tools.
 
 UnrealEngine
 https://github.com/FrozenKresnik-W/UnrealEngine
